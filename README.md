@@ -1,5 +1,5 @@
 # CF-Snippets/Worker-Extend
-**本项目为老王的Snippets/Worker脚本功能扩展，需要先部署老王的Snippets/Worker，再部署这个,这个只负责根据配置的proxyIP、优选IP/域名、全局出站代理生成订阅，实际的节点还是走原本的**
+**本项目为老王的Snippets/Worker脚本功能扩展（SS/VLESS），需要先部署老王的Snippets/Worker，再部署这个,这个只负责根据配置的proxyIP、优选IP/域名、全局出站代理生成订阅，实际的节点还是走原本的**
 > 一个功能强大的 Cloudflare Workers 代理管理工具，集成 ProxyIP、全局出站、CFIP 管理和订阅生成功能
 
 
